@@ -15,6 +15,9 @@
     "classtab",
     "sleep"
   ],
+  "hyperdrive": {
+    "publicKey": "161fb2014dc31a0ba47af677307d6103843e2ad7139f7c8fcea19b1bbf35148f"
+  },
   "author": "Joseph Werle <joseph.werle@gmail.com>",
   "license": "GPLv3",
   "bugs": {
