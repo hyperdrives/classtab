@@ -24,8 +24,14 @@ You can read the archive directly by simply requiring and initializing
 the hyperdrive with the correct public key.
 
 ```js
+const storage = require.resolve('@hyperdrives/classtab')
+const classtab = require('hyperdrive')(storage, key, opts)
+```
+
+or using a convenient wrapper:
+
+```js
 const classtab = require('@hyperdrives/classtab')(key, opts)
-classtab.readdir('/', console.log)
 ```
 
 You can also leverage [random-access-http](
