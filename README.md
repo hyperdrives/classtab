@@ -3,7 +3,7 @@ classtab
 
 Classical Guitar Tablature from classtab.org
 
-![www.classtab.org](resources/classtab_icon_640x230.jpg)
+![www.classtab.org](classtab/classtab_icon_640x230.jpg)
 
 ## Usage
 
