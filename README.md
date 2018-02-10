@@ -2,7 +2,7 @@ classtab
 ========
 
 Classical Guitar Tablature
-[HyperDrive](https://github/mafintosh/hyperdrive) Archive from classtab.org
+[HyperDrive](https://github.com/mafintosh/hyperdrive) Archive from classtab.org
 
 ![www.classtab.org](classtab/classtab_icon_640x230.jpg)
 
