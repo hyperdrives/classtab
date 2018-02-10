@@ -1,0 +1,277 @@
+Postcards From Spain (To Michael Lorimer) - I Cantaor (Triana) - Thea Musgrave
+Five Serenades for solo guitar (2nd edition, Lorimer, Novello 120809, 1997)
+MIDI: http://www.classtab.org/musgrave_postcards_from_spain_1_cantaor.mid
+see Notes and Legend below the tab - tabbed by weed@wussu.com - 27 August 2017
+
+In a cafe in Triana, the section of Seville famous for its flamenco culture,
+a cantaor (flamenco singer) and his guitar accompanist sit erectly.
+"Strum-a-strum!" goes the guitarrista; the singer begins his tale; "strum!"
+interrupts; then on continues the song. - Michael Lorimer (editor)
+
+Tuning: EADGBE    Key: -    Time: 3/4, 2/4    Tempo: 84 bpm (quarter notes)
+
+ Vigoroso (strong, vigorous, energetic)
+
+   CIX >                         CII_______
+   ^ v ^                                     >   >   >
+1      |   .   |   .   |   .     |   .   |   .   |   .   
+e|-9g9g9-----------------------|-----2---2-------6-------|
+B|-9g9g9-----------0-----------|-----2---2-------5-------|
+G|-9g9g9---------------5---5---|-5-----5-----------------|
+D|-9g9g9---10--10--10--7---6---|-4-----------------------|
+A|-9g9g9-----------------------|---2---------------------|
+E|-9g9g9-----------------------|-------------3-------2---|
+           2   2   2   2   2     4               4
+   rasq.               4   3     3           1   3   1
+   f       p                                 < < < < < <
+
+   CIX_    CVI_____________                           CII_________
+   arp.                                  >   >   >    arp. -
+3  |   .   |   .   |   .     |   .   |   .   |   .     |   .   |   .   |   .
+e|-9-----------------------|-----0---0---------------|-2---2-----2---------0---|
+B|-9-----------------------|-----8---8---------------|-2---4p2---------7-------|
+G|-9-------6---6---6---6---|-6-----8---------0-------|-2-------5---3p2-------8-|
+D|-9---11------10--8---6---|-5-----------------------|-4-----------------6-----|
+A|-9-----------------------|---------------------0---|-4-----------------------|
+E|-9-----------------------|---0---------6-----------|-4-----------------------|
+       4       4   3         2   4 3                   4   4   4   2 1 4 2   4
+                             1           1             3
+  rasq.                                                2  
+   f   p                                 < < < < < <   f   mf
+
+  arp. CV____________       arp.
+6  |   .   |   .   |   .     |   .   |   .     |    .   |   .
+e|-----5-----5-----5-------|-6-----0---------|-8------5-6-9------|
+B|-----7p5-------------7-6-|-5-------7h8-----|-10-7/8-------10p8-|
+G|-5-------8---6p5---------|-6---8---------0=|===----------------|
+D|-6-----------------8-----|-5-8---------11--|-8-----------------|
+A|-6-----------------------|-----------------|-------------------|
+E|-------------------------|-----------------|-------------------|
+   1   4   4   2     4 3 2   4 2 3   1.1 4     2  1.1 3 4 2 3  1
+                             2                 4
+   2                         3                 1
+                             1
+  sfz                       sfz               sfz
+
+       -                 cVI_________________
+9  |   .   |   .     |   .   |   .   |   .
+e|-10--------------|-------------------------|
+B|-9---------------|-----6---6---6---6---6---|
+G|-10--10--10--10--|-10--6=======9=======8---|
+D|-9-----------10--|-----7=======------------|
+A|-------------9---|-------------------------|
+E|-----------------|-------------------------|
+   4           3         2       4       4
+   2           2
+   3           1
+   1                         pochiss. rit.___ (very slightly slowing down)
+  sfz          p             < < < < < < < f
+
+                                         cI______________
+11 |-3-| |-3-| |-3-| |-3-| |-3-| |-3-|   |   .   |   .     |   .   |   .
+e|-2p1p0-------------------------------|-----------------|-----------------|
+B|-------2p1p0-------------------------|-----------------|-----------------|
+G|-------------3p2p0-------------------|-----------------|-----------------|
+D|-------------------2p1p0-------------|-----------------|-----------------|
+A|-------------------------2p1p0-------|-----1-----------|-4===============|
+E|-------------------------------2p1p0-|-1---2-------1---|-5===============|
+   2 1   2 1   3 2   2 1   2 1   2 1         2             1
+                                             poco rit.     2
+                                             (a little slower)
+
+   CIX_                      cVI________              CIV  
+   arp.                                  >   >   >    arp. -
+14 |   .   |   .   |   .     |   .   |   .   |   .     |   .   |   .   |   .
+e|-9-----------------------|-----6---6-------8-------|-9-----------------------|
+B|-9-------8---8---8---8---|-8---6---6-------8-------|-9-------10--10--10--10--|
+G|-9---12------11--9---8---|-6-----9-----------------|-9---14------12--10--9---|
+D|-9-----------------------|-------------0-----------|-9-----------------------|
+A|-9-----------------------|---7---------------------|-9-----------------------|
+E|-9-----------------------|---------------------6---|-9-----------------------|
+ rasg. 4   1   1   1   3     3 2   4         4             4   1   1   1   3
+   f   p       4   2...2                     3   1   rasg.         4   2   2
+   a tempo (back to the original tempo)  < < < < < <   f   p
+
+   CVII_______              cVI_
+               >   >   >    arp.                      arp.
+17 |   .   |   .   |   .    |   .   |   .    |   .     |   .   |   .   |   .
+e|-----7---7-------10-----|-9---0-----0--------0-----|-10----------------------|
+B|-9---7---7-------10-----|--------------------------|-9---6-----6---0---------|
+G|-7-----10---------------|-0-----8----------------0=|=====--8-7---5---10--8-7=|
+D|-------------0----------|---------11--10-8-----6---|-9-----------------7-----|
+A|---8--------------------|-6---------------<12>-----|-------------------------|
+E|---------------------8--|-6------------------------|-------------------------|
+   3     4         4        4     1 4   3  1     4     4   2 4 3 2 1   4 1 3 2
+   1 2             3   1                               2
+                                                       1
+   < < < < < < < < < < <    f  mf                     sfz
+
+  arp.              arp.                      arp.
+20 |   .   |   .     |     .     |     .       |   .   |   .
+e|-0---------------|-0-----------------------|-11----------0---|
+B|-8---9p8---10----|-10----11p10----11-10----|-10--10--10--10--|
+G|=====----10--8p7-|-0-----------12-------12-|-11--------------|
+D|-6---------------|-11----------------------|-10----------8---|
+A|-----------------|-------------------------|-----------------|
+E|-----------------|-------------------------|-----------------|
+   3   2 1 4 3 2 1   2     2  1  3  2  1  3    4           2
+   1                 3                         2           1
+                                               3
+                                               1
+  sfz               sfz                       sfz  p
+
+23 |   .   |   .   |   .     |-3-| |-3-| |-3-| |-3-| |-3-| |-3-|
+e|-------------0-----------|-6p4p0-------------------------------|
+B|-10--10--10--10--10--10--|-------6p4p0-------------------------|
+G|-----10------13-----<12>-|-------------4p3p0-------------------|
+D|-----11------------------|-------------------4p3p0-------------|
+A|-------------------------|-------------------------4p3p0-------|
+E|-------------------------|-------------------------------4p3p0-|
+   2   2   2   1             3 1   3 1   2 1   2 1   2 1   2 1
+       3       4
+       1   < < < < < < < <   f
+
+                                      CIX
+                                      arp. -
+25 |   .   |   .     |   .   |   .     |   .   |   .   |   .
+e|-----------------|-----------------|-9-----------------------|
+B|-----------------|-----------------|-9-----------------------|
+G|-----------------|-----------------|-9-------0---0---0---0---|
+D|-----------------|-----------------|-9-----------------------|
+A|-0---4-------0---|-7===============|-9---10------9-----------|
+E|-----6-----------|-8===============|-9--------------<12>-11--|
+       1             2                     2       1       3
+       3             3                 f   mf      < < < < <
+       poco rit. (a little slower)     a tempo (back to the original tempo)
+
+   CIX                     CIX
+   arp.                    arp. p  i  p  a                p  i  p  i
+       -                     v                         ^
+28 |   .   |   .   |   .     |     .     |     .       |     .     |     .
+e|-9-----------------------|-9-----------0=====------|-2-----------------------|
+B|-9-----------------------|-9-----------------------|-2-----------9=====------|
+G|-9-----------------------|-9-----------------------|-2-----9--8--------------|
+D|-9-------8---8---8---8---|-9-----12-11-------------|-1--10-------------------|
+A|-9---13------12--10--9---|-9--13-------------------|-0-----------------------|
+E|-9-----------------------|-9-----------------------|-------------------------|
+       4   1   1   1   1                               4  3  2  1  2
+               4   3   2                               3
+                                                       2
+   f mf        < < < < <     f                         1
+
+   CVI__ CV________
+   arp.                    ,
+31 |   .   |   .   |   .     |   .   |   .   |   .
+e|-8p--6-5-8p--6-5-8-------|-------------4-------9---|
+B|-7=======5=======7-------|-----4-------0-------0---|
+G|---------6=======8-------|-0=======5=======10======|
+D|-6=======5=======--------|-----0-------4-------8---|
+A|-6=======--------0-------|-----4-------------------|
+E|-------------------------|-------------------------|
+   2       4   3   4             2   3   2   3   2
+   2       2       2             1       1       1
+                   3          mf  < < < < < < < < < <
+
+   >
+33 |-3-| |-3-| |-3-| |-3-| |-3-| |-3-|   |   .   |   .   |   .
+e|-8p7p0-------------------------------|-------------------------|
+B|-------8p7p0-------------------------|-------------------------|
+G|-------------8p7p0-------------------|-------------------------|
+D|-------------------8p7p0-------------|-------------------------|
+A|-------------------------8p7p0-------|-------------------------|
+E|-------------------------------8p7p0-|-4p3-1-4-3-1-4-3-1h4-3-1-|
+   2 1   2 1   2 1   2 1   2 1   2 1     4 3 1
+   f                                     cresc.
+
+ (Bright)                  (Mellow)
+  arp.
+35 |   .   |   .   |   .     |   .   |   .   |   .
+e|-0=======-=======-=======|-0=======-=======-=======|
+B|-0=======-=======-=======|-0=======-=======-=======|
+G|-0=======-=======-=======|-3=======-=======-=======|
+D|-0---8===-=======-=======|-5=======-=======8=======|
+A|-0=======-=======-=======|-0=======-=======-=======|
+E|-0=======-=======-=======|-0=======-=======-=======|
+   ff  4                     mf              dim.
+                                             rit.
+
+37 |   .   |   .   |   .     |   .   |   .   |   .
+e|-------------------------|-------------------------||
+B|-------------------------|-------------------------||
+G|-------------------------|-------------------------||
+D|=========8===============|=========8===============||
+A|-------------------------|-------------------------||
+E|-------------------------|-------------------------||
+
+
+Notes and Legend
+----------------
+The performer of Postcards from Spain will find it impossible to sustain every
+note for its written value. Neverthless, it is always possible to communicate
+the composer's intention, and therefore the score is presented in this edition
+as Thea Musgrave wrote it, and as she hopes the listener will imagine it, rather
+than as a precise depiction of the literal sound that one performer might
+produce. The ears fo the listener, rather then the fingers of the performer,
+guide the fingering. This means that in the first serenade, Cantaor,
+for example, repeated notes are fingered on adjacent strings rather then on one
+string. If instead, the notes were simply played on one string, which would be
+easier for the performer, the sound might not be so interesting. Whilst this
+fingering is a model that pleases the composer and the editor, the score is
+presented asa the composer conceived it, anmd other fingerings are possible.
+ - Michael Lorimer (editor)
+
+Suggested duration: 1 min 50 sec
+
+Comments and suggestions for improving the phrasing of the MIDI are welcome. 
+
+measure 1 - the sheet shows a barre on the 10th fret for the first 3 chords (??)
+
+measure 29 - the upstroke (1st chord) is played with the index finger
+
+measure 31 - the sheet has the fingering of the last chord 234 (not 324) which
+             would be correct if the chord was A Eb G C (rather than A Eb Gb C)
+
+left hand fingering below tab       right hand fingering above tab
+1 - index finger                    p - thumb
+2 - middle finger                   i - index finger
+3 - ring finger                     m - middle finger
+4 - little finger                   a - ring finger
+
+===   - note held, length of note, duration
+>     - (above the tab) accented, stressed
+^     - downstroke - strum from the lowest note to the highest note
+v     - upstroke - strum from the highest note to the lowest note
+/     - slide note up
+-     - tenuto - note held for at least its full length, or a little longer
+,     - slight pause (breath mark)
+|-3-| - triplet - 3 notes played in the time of 2 notes
+arp.  - arpeggiate - ripple upwards from the lowest note to the highest note
+g     - grace note (ornament) - here played as an acciaccatura -
+        extra note(s) played at the same time as, or just before the
+        main note, then immediately released
+h     - hammer-on
+p     - pull-off
+rasq. - rasgueo or rasgueado (flamenco style strumming)
+<12>  - natural (open) harmonic on the 12th fret
+cI    - part barre on the 1st fret
+CII   - barre on the 2nd fret
+cVI   - part barre on the 6th fret
+CVI   - barre on the 6th fret
+CVII  - barre on the 7th fret
+CIX   - barre on the 9th fret
+
+expressions (below the tab) -
+< <    - crescendo, growing louder
+> >    - decrescendo, growing softer
+cresc. - growing louder
+dim.   - diminuendo - diminishing, gradually getting softer
+f      - forte - loud
+mf     - mezzoforte - moderately loud
+p      - piano - soft
+rit.   - ritenuto (or ritardando) - slowing down
+sfz    - strongly accented, suddenly louder
+
+------------------------------------------------------------------------------
+
+see the latest version of this tab at http://www.classtab.org
+
