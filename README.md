@@ -1,8 +1,9 @@
 classtab
 ========
 
-![www.classtab.org](resource/classtab_icon_640x230.jpg)
 Classical Guitar Tablature from classtab.org
+
+![www.classtab.org](resources/classtab_icon_640x230.jpg)
 
 ## Usage
 
