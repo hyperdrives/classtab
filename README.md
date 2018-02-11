@@ -6,6 +6,8 @@ Classical Guitar Tablature
 
 ![www.classtab.org](classtab/classtab_icon_640x230.jpg)
 
+https://hashbase.io/hyperdrives/classtab
+
 ## Installation
 
 ```sh
