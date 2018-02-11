@@ -1,6 +1,6 @@
 {
   "name": "@hyperdrives/classtab",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Classical Guitar Tablature from classtab.org represented in SLEEP files for HyperDrive",
   "main": "index.js",
   "scripts": {
